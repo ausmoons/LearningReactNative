@@ -1,1 +1,15 @@
 import './components/Hello.stories';
+import './components/Button.stories';
+import './components/TextInput.stories';
+import './components/Toolbar.stories';
+import './components/SearchToolbar.stories';
+import './components/TopToolbar.stories';
+import './components/FilterToolbar.stories';
+import './views/Categories.stories';
+import './views/Catalog2.stories';
+import './views/SignUpView.stories';
+import './views/LoginView.stories';
+import './views/ForgotPassword.stories';
+import './views/Box.stories';
+import './views/Main3.stories';
+import './views/SvgExample.stories';
