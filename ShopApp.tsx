@@ -1,9 +1,10 @@
+/* eslint-disable prettier/prettier */
 import React from 'react';
 import { Text } from 'react-native';
 import { createAppContainer } from 'react-navigation';
 import { createBottomTabNavigator } from 'react-navigation-tabs';
 import { createStackNavigator } from 'react-navigation-stack';
-import {SignUpView, ForgotPassword, LoginView } from './src/views'
+import { SignUpView, ForgotPassword, LoginView } from './src/views';
 
 
 const AuthStack = createStackNavigator({
@@ -11,7 +12,6 @@ const AuthStack = createStackNavigator({
  ForgotPas: ForgotPassword,
  Login: LoginView,
 });
-
 
 
 const TabNavigator = createBottomTabNavigator({
