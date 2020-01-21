@@ -34,7 +34,10 @@ target 'LearnReactNative' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-
+<<<<<<< HEAD
+=======
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+>>>>>>> cb3c10225875a91ee9e33ce486349cdab6ee7170
 
   target 'LearnReactNativeTests' do
     inherit! :search_paths

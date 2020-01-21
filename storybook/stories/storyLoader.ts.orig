@@ -12,4 +12,7 @@ import './views/LoginView.stories';
 import './views/ForgotPassword.stories';
 import './views/Box.stories';
 import './views/Main3.stories';
+<<<<<<< HEAD
 import './views/SvgExample.stories';
+=======
+>>>>>>> cb3c10225875a91ee9e33ce486349cdab6ee7170
